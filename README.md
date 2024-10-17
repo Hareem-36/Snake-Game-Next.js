@@ -1,3 +1,7 @@
+
+![snake](https://github.com/user-attachments/assets/6c3f9f08-02ac-4c48-8530-a3a790417395)
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
